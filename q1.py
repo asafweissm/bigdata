@@ -1,3 +1,6 @@
+def n():
+    return 1
+
 def pnlprod(to):
     prod = 1
     for i in range(1, to+1):
