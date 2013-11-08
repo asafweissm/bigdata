@@ -5,7 +5,7 @@ def pnlprod(to):
     prod = 1
     for i in range(1, to+1):
         prod *= ((1-2**(-i))**(-1))
-    return prod
+    return prod1
     
 def p(n, l):
     s = 0
